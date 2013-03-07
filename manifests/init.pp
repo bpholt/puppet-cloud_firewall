@@ -1,0 +1,3 @@
+class cloud_firewall {
+}
+
